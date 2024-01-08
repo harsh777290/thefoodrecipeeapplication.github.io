@@ -2,9 +2,9 @@
 
 FOOD-RECIPES-APP (Made using HTML5, CSS3, API, Local Storage and JavaScript)
 
-You can see the website live at: 
+You can see the website live at: https://admirable-concha-3c4136.netlify.app/
 
-Project demo video Link: 
+Project demo video Link: https://youtu.be/KuAFm612ohk?si=iUzx1-S8ERKbU0OM
 
 TheMeal API Link: https://www.themealdb.com/api.php
 
